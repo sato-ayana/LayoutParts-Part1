@@ -1,2 +1,19 @@
 @charset "UTF-8";
 /* 回答はここから */
+
+.card-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.text {
+  list-style: none;
+  width: 200px;
+  box-shadow: 0 0 0 6px #655;
+  outline: 10px solid #655;
+  background: #d2b48c;
+  padding: 10px;
+  margin: 30px;
+  border-radius: 13px;
+}
