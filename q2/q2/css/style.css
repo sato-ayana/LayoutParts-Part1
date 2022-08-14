@@ -14,6 +14,10 @@
   outline: 10px solid #655;
   background: #d2b48c;
   padding: 10px;
-  margin: 30px;
+  margin-right: 60px;
   border-radius: 13px;
+}
+
+.text:nth-child(3) {
+  margin-right: 0;
 }
